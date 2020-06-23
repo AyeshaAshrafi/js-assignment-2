@@ -427,7 +427,7 @@
 // task7
 // var startnum=prompt("Enter the starting number:")
 // var endnum=prompt("Enter the ending number:")
-// function counting(startnum,endnum){
+// function counting(){
 //     for (i=startnum;i<=endnum;i++)
 //     {
 //         document.write(i)
